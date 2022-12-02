@@ -1,0 +1,57 @@
+
+CCURSO DE NODE.JS 
+
+1. Primero es descargar Node.JS en la pagina oficial
+
+2. Hola mundo
+
+-----------------------------------------
+
+let x = 0
+undefined
+> do {
+... x++;
+... console.log(x);
+... }
+... while(x < 10)
+-----------------------------------------------------------------------
+// Funcione de Javasripst
+
+setInterval(() => console.log(''Hello'), 3000)
+------------------------------------------------------------------
+
+1. Javascript en Node.JS
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
